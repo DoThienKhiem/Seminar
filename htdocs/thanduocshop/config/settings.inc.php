@@ -1,0 +1,19 @@
+<?php
+define('_DB_SERVER_', 'sql301.byetcluster.com');
+define('_DB_NAME_', 'b11_15474492_800');
+define('_DB_USER_', '15474492_1');
+define('_DB_PASSWD_', '6S8Wr)8@7P');
+define('_DB_PREFIX_', 'ps_');
+define('_MYSQL_ENGINE_', 'InnoDB');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_MEDIA_SERVER_1_', '');
+define('_MEDIA_SERVER_2_', '');
+define('_MEDIA_SERVER_3_', '');
+define('_COOKIE_KEY_', 'o0iwshswfohfzbxiucszypaizvzpqov6dtwu1qrsqrgkjsm6szzo3yfe');
+define('_COOKIE_IV_', 'faz9ebo4');
+define('_PS_CREATION_DATE_', '2014-10-26');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.0.9');
+define('_RIJNDAEL_KEY_', 's1ajr8iFmJUe1rPAumy2XGyACxb7A3NT');
+define('_RIJNDAEL_IV_', '4jJcCr7sro4WvIwH99eBbA==');
