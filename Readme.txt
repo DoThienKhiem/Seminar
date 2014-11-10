@@ -1,8 +1,7 @@
-﻿Nhóm 1 - Thực phẩm chức năng
-I.	Giới Thiệu
+﻿I.	Giới Thiệu
 1.	Website:
 Website thanduocshop chuyên kinh doanh các sản phẩm chức năng của công ty Unicity
-2.	Các thành viên nhóm 1:
+2.	Các thành viên nhóm:
 •	Đỗ Thiện Khiêm
 •	Nguyễn Văn Luật
 •	Lê Hữu
@@ -34,18 +33,13 @@ II.	Các chức năng.
 3.3.	Xóa sản phẩm trong giỏ hàng
 3.4.	Gửi mail xác nhận đơn hàng
 3.5.	Xem lại đơn hàng đã đặt theo user
-4.	Thanh toán
-4.1.	Thanh toán trực tiếp
-4.2.	Thanh toán qua chuyển khoản
-4.3.	Thanh toán bằng chi phiếu
-5.	Khác
-5.1.	Trò chuyện với người quản lý
-5.2.	Like shop thông qua facebook
-5.3.	Đinh vị shop trên google maps.
-5.4.	Google analytics 
-5.5.	SMTP
-5.6.	Giao diện người dùng song ngữ
-
+4.	Khác
+4.1.	Trò chuyện với người quản lý
+4.2.	Like shop thông qua facebook
+4.3.	Đinh vị shop trên google maps.
+4.4.	Google analytics 
+4.5.	SMTP
+4.6.	Giao diện người dùng song ngữ
 III.	Các module đã cài đặt:
 
 1.	Available quantities v1.4.1 - by PrestaShop
